@@ -5,8 +5,11 @@ body{
 
 h1 {
     color:rgb(96, 53, 96);
+    font-family: Arial, sans-serif;
 }
 
 button {
-    color:rosybrown
+    color:rgb(83, 68, 68);
+    background-color:rosybrown;
+    border-radius: 12px;
 }
